@@ -1,0 +1,15 @@
+reflecion sobre git
+
+
+Pregunta 1: Importancia de git status
+
+la importancia de git status antes de hacer git add es que asi podemos el estado en el que se encuentra el archivo para poder asi empacarlo con el git add
+
+Pregunta 2: Orden de pull y push
+
+si yo hago git push antes de hacer git pull me daría un error ya que porque mi repositorio local no tiene los cambios desde el repositorio del GitHub, no tiene los cambios mas recientes
+
+
+Pregunta 3: Autoevaluación
+
+no fue tan difícil nada
